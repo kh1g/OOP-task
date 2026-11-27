@@ -1,0 +1,24 @@
+{
+  "name": "oop-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TaskBankAccount.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kh1g/OOP-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kh1g/OOP-task/issues"
+  },
+  "homepage": "https://github.com/kh1g/OOP-task#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1"
+  }
+}
